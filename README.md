@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a Data Scientist with CyberSecurity expertise</p>
+<h4 align="center">I'm a Data Scientist with CyberSecurity expertise</h4>
 
 ###
 
@@ -29,6 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker logo"  />
   <img width="12" />
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo"  />
