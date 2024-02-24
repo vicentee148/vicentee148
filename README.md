@@ -2,7 +2,8 @@
 
 ###
 
-<h4 align="center">My name is Kenneth, but you can call me Kenny. I'm a Data Scientist with CyberSecurity expertise</h4>
+<h4 align="center">My name is Kenneth, but you can call me Kenny. <br /> 
+  I'm a Data Scientist with CyberSecurity expertise</h4>
 
 ###
 
