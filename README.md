@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm Kenny</h1>
+<h1 align="center">Welcome🖖🏾</h1>
 
 ###
 
-<h4 align="center">I'm a Data Scientist with CyberSecurity expertise</h4>
+<h4 align="center">I'm Kenny, a Data Scientist with CyberSecurity expertise</h4>
 
 ###
 
