@@ -1,22 +1,12 @@
-<img align="right" height="72" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzZ3JxYnNpeG1lcXE0eTBnc3NpdXE5MDM3bW5rb2UzMHFyN25jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbcDD97P5RYDm/giphy.gif" />
-
-###
+<img align="right" height="70" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzZ3JxYnNpeG1lcXE0eTBnc3NpdXE5MDM3bW5rb2UzMHFyN25jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbcDD97P5RYDm/giphy.gif" />
 
 <h1 align="center">Welcome ☥ </h1>
 
-###
-
 <h3 align="left">👨🏾‍💻 About Me </h3>
-
-###
 
 <p align="left">My name is Kenneth, but you can call me Kenny. I'm a Data Scientist with expertise in Cybersecurity.<br><br>👨🏾‍🎓 Financial Management degree, UniAmerica<br><br>🕵🏾 CyberOps Associate certified, Cisco <br><br>👨🏾‍🔬 Data Science certified, EBAC</p>
 
-###
-
 <h3 align="center">🛠 Language and tools</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
@@ -49,14 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="36" alt="putty logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vicentee148&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/vicentee148/vicentee148/output/snake.svg" alt="Snake animation" />
-
-###
