@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome ☥ </h1>
 
-<h3 align="left">👨🏾‍💻 About Me </h3>
+<h3 align="left">🤟🏾 About Me </h3>
 
 <p align="left">My name is Kenneth, but you can call me Kenny. I'm a Data Scientist with expertise in Cybersecurity.<br><br>👨🏾‍🎓 Financial Management degree, UniAmerica<br><br>🕵🏾 CyberOps Associate certified, Cisco <br><br>👨🏾‍🔬 Data Science certified, EBAC</p>
 
