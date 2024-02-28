@@ -42,5 +42,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vicentee148&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/vicentee148/vicentee148/output/snake.svg" alt="Snake animation" />
