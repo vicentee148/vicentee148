@@ -1,8 +1,8 @@
 <img align="right" height="65" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzZ3JxYnNpeG1lcXE0eTBnc3NpdXE5MDM3bW5rb2UzMHFyN25jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbcDD97P5RYDm/giphy.gif" />
 
-<h1 align="center">Welcome ☥ </h1>
+<h1 align="center">Welcome 🤟🏾 </h1>
 
-<h3 align="left">🤟🏾 About Me </h3>
+<h3 align="left"> ☥ About Me </h3>
 
 <p align="left">My name is Kenneth, but you can call me Kenny. I'm a Data Scientist with expertise in Cybersecurity.<br><br>👨🏾‍🎓 Financial Management degree, UniAmerica<br><br>🕵🏾 CyberOps Associate certified, Cisco <br><br>👨🏾‍🔬 Data Science certified, EBAC</p>
 
