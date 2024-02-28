@@ -1,13 +1,20 @@
-<h1 align="center">Welcome🖖🏾</h1>
+<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlzZ3JxYnNpeG1lcXE0eTBnc3NpdXE5MDM3bW5rb2UzMHFyN25jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbcDD97P5RYDm/giphy.gif"  />
 
 ###
 
-<h4 align="center">My name is Kenneth, but you can call me Kenny. <br /> 
-  I'm a Data Scientist with CyberSecurity expertise</h4>
+<h1 align="center">Welcome ☥</h1>
 
 ###
 
-<p align="left"></p>
+<h3 align="left">👨🏾‍💻 About Me</h3>
+
+###
+
+<p align="left">My name is Kenneth, but you can call me Kenny. I'm a Data Scientist with expertise in Cybersecurity.<br><br>👨🏾‍🎓 Financial Management degree, UniAmerica<br><br>🕵🏾 CyberOps Associate certified, Cisco <br><br>👨🏾‍🔬 Data Science certified, EBAC</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -40,6 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="36" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="36" alt="putty logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vicentee148&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
